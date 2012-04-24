@@ -7,6 +7,6 @@ commands:
     derp:
         description: Derp messages.
         permission: Derp.derp
-    derpage:
-        description: Derp messages.
-        permission: Derp.derpage
+permissions:
+    Derp.derp:
+        description: Let the user derp
