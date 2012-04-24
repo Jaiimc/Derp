@@ -1,4 +1,0 @@
-Derp
-====
-
-Test Plugin!
