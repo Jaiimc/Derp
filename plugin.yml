@@ -6,7 +6,7 @@ main: com.github.Jaiimc.Derp.Derp
 commands:
     derp:
         description: Derp messages.
-        permission: derp.derp
+        permission: Derp.derp
     derpage:
         description: Derp messages.
-        permission: derp.derpage
+        permission: Derp.derpage
