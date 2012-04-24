@@ -17,13 +17,6 @@ public void onDisable(){
 	getLogger().info("Derp has been disabled!");
 }
 
-@SuppressWarnings("unused")
-private Derp plugin;
-
-public Derp(Derp plugin) {
-	this.plugin = plugin;
-}
-
 @Override
 
 public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
