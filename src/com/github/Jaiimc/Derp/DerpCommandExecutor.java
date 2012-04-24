@@ -7,10 +7,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 public class DerpCommandExecutor implements CommandExecutor {
-private Derp plugin;
-
 public DerpCommandExecutor(Derp plugin) {
-	this.plugin = plugin;
 }
 
 @Override
